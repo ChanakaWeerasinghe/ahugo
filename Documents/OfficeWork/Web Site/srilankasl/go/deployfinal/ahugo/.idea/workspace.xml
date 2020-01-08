@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92d82935-d7f4-42cf-adf1-6c421c51dd08" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/archetypes/default.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/exampleSite/config.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/exampleSite/content/about/about.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/exampleSite/content/blog/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/exampleSite/content/blog/post-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/exampleSite/content/blog/post-10.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/exampleSite/content/blog/post-11.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/exampleSite/content/blog/post-12.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/exampleSite/content/blog/post-13.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/exampleSite/content/blog/post-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/exampleSite/content/blog/post-3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/exampleSite/content/blog/post-4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/exampleSite/content/blog/post-5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/exampleSite/content/blog/post-6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/exampleSite/content/blog/post-7.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/exampleSite/content/blog/post-8.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/exampleSite/content/blog/post-9.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/exampleSite/content/contact/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/exampleSite/content/search/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/layouts/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/layouts/_default/baseof.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/layouts/_default/index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/layouts/_default/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/layouts/_default/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/layouts/_default/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/layouts/about/single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/layouts/contact/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/layouts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/layouts/partials/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/layouts/partials/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/layouts/partials/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/layouts/partials/preloader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/layouts/partials/sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/layouts/search/list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/liva-hugo/theme.toml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/liva-hugo" />
+  </component>
+  <component name="ProjectId" id="1W67doAULgklHvdAvMF0ewTKxYA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92d82935-d7f4-42cf-adf1-6c421c51dd08" name="Default Changelist" comment="" />
+      <created>1578458280963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578458280963</updated>
+      <workItem from="1578458282154" duration="1032000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
